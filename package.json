@@ -1,0 +1,23 @@
+{
+  "name": "ajs_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anton-mochinsky/ajs_1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anton-mochinsky/ajs_1/issues"
+  },
+  "homepage": "https://github.com/anton-mochinsky/ajs_1#readme",
+  "dependencies": {
+    "@anton-mochinsky/ajs": "^1.0.0"
+  }
+}
